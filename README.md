@@ -58,5 +58,3 @@ This capstone project, part of the Business Data Management curriculum, analyzes
 
 ---
 
-## 📂 Project Structure
-
